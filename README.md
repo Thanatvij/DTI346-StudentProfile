@@ -8,7 +8,6 @@
 
 **https://thanatvij.github.io/DTI346-StudentProfile/**
 
-เว็บนี้แยกจาก Portfolio เดิมเป็น repository ของตัวเอง ทุก asset ใช้ relative path และอยู่ใน repository นี้ครบถ้วน
 
 ## ข้อกำหนด (เอกสาร Week 5 หน้า 82)
 
