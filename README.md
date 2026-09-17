@@ -26,9 +26,8 @@
 
 ## เนื้อหาและภาพ
 
-ข้อมูลอ้างอิง Resume ล่าสุดที่ผู้ใช้ให้ไว้ (Word_MYResume.pdf) ภาพ SVG เป็นแผนภาพอธิบายลำดับการทำงานของ BloodScope ไม่ใช่ภาพหน้าจอแอปหรือผลการวินิจฉัย TDET-Scan ระบุชัดว่าเป็นแนวคิดและต้นแบบ
+ข้อมูลอ้างอิง Resume ล่าสุดของผม  ภาพ SVG เป็นแผนภาพอธิบายลำดับการทำงานของ BloodScope ไม่ใช่ภาพหน้าจอแอปหรือผลการวินิจฉัย TDET-Scan ระบุชัดว่าเป็นแนวคิดและต้นแบบ
 
-โฟลเดอร์นี้เป็นเว็บแยกสำหรับ DTI346 โดยเฉพาะ ไม่ต้องใช้ไฟล์หรือสคริปต์จาก Portfolio เดิม
 
 
 ## Repository และการ Deploy
@@ -39,5 +38,3 @@ Repository: `Thanatvij/DTI346-StudentProfile`
 
 **Live Website:**  
 https://thanatvij.github.io/DTI346-StudentProfile/
-
-Portfolio เดิมยังอยู่ที่ repository `Thanatvij.github.io` แยกประวัติ Git และการ deploy กัน แม้ URL จะอยู่ภายใต้โดเมน `github.io` เดียวกัน
