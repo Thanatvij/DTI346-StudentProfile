@@ -4,7 +4,11 @@
 
 ## เปิดใช้งาน
 
-เปิด `index.html` ในเบราว์เซอร์ได้โดยตรง เว็บนี้แยกจาก Portfolio เดิมเป็น repository ของตัวเอง ทุก asset ใช้ relative path และอยู่ใน repository นี้ครบถ้วน
+สามารถเปิด `index.html` ในเบราว์เซอร์ได้โดยตรง หรือดูเว็บไซต์ที่ deploy ผ่าน GitHub Pages ได้ที่:
+
+**https://thanatvij.github.io/DTI346-StudentProfile/**
+
+เว็บนี้แยกจาก Portfolio เดิมเป็น repository ของตัวเอง ทุก asset ใช้ relative path และอยู่ใน repository นี้ครบถ้วน
 
 ## ข้อกำหนด (เอกสาร Week 5 หน้า 82)
 
@@ -27,15 +31,13 @@
 โฟลเดอร์นี้เป็นเว็บแยกสำหรับ DTI346 โดยเฉพาะ ไม่ต้องใช้ไฟล์หรือสคริปต์จาก Portfolio เดิม
 
 
-## เผยแพร่ใน repository ใหม่
+## Repository และการ Deploy
 
-ชื่อแนะนำ: `dti346-student-profile` (ยังไม่ได้สร้างบน GitHub)
+Repository: `Thanatvij/DTI346-StudentProfile`
 
-1. สร้าง repository ว่างชื่อ `dti346-student-profile` ในบัญชี Thanatvij
-2. นำไฟล์ในโฟลเดอร์นี้ขึ้น repository โดยให้ `index.html`, `styles.css` และ `assets/` อยู่ระดับราก ไม่ต้องซ้อนโฟลเดอร์ `dti346/`
-3. ไปที่ Settings → Pages → Deploy from a branch → main → /(root) แล้ว Save
-4. เมื่อ GitHub Pages เผยแพร่สำเร็จ URL มาตรฐานจะเป็น `https://thanatvij.github.io/dti346-student-profile/`
+เว็บไซต์ถูกเผยแพร่ด้วย **GitHub Pages** โดยใช้ branch `main` และไฟล์ใน root ของ repository
 
-Portfolio เดิมยังอยู่ที่ repository `Thanatvij.github.io` แยกประวัติ Git และการ deploy กัน แม้ URL จะอยู่ภายใต้โดเมน github.io เดียวกัน
+**Live Website:**  
+https://thanatvij.github.io/DTI346-StudentProfile/
 
-
+Portfolio เดิมยังอยู่ที่ repository `Thanatvij.github.io` แยกประวัติ Git และการ deploy กัน แม้ URL จะอยู่ภายใต้โดเมน `github.io` เดียวกัน
